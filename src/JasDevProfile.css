@@ -1,0 +1,100 @@
+/* JasDevStyles.css */
+
+/* Main Container for the Profile Card */
+.jas-dev-card {
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 2rem;
+  width: 320px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #ffffff;
+  color: #333;
+  margin: 0 auto; /* Centers the card */
+}
+
+.jas-dev-avatar {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+
+.jas-dev-name {
+  margin: 0 0 0.5rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.jas-dev-status-text {
+  color: #666;
+  margin-bottom: 1.2rem;
+  font-style: italic;
+}
+
+.jas-dev-button-group {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 1.5rem;
+  justify-content: center;
+}
+
+/* Base button styles */
+.jas-dev-btn {
+  padding: 0.6rem 1rem;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: opacity 0.2s ease;
+}
+
+.jas-dev-btn:hover {
+  opacity: 0.8;
+}
+
+.btn-available {
+  background-color: #28a745;
+  color: white;
+}
+
+.btn-busy {
+  background-color: #dc3545;
+  color: white;
+}
+
+.jas-dev-skills-section {
+  text-align: left;
+  border-top: 1px solid #eee;
+  padding-top: 1rem;
+}
+
+.jas-dev-skill-list {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.jas-dev-skill-item {
+  background-color: #f0f2f5;
+  padding: 5px 12px;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  color: #555;
+  border: 1px solid #dcdcdc;
+}
+
+.About-JasDev {
+  text-align: left;
+  border-top: 1px solid #eee;
+  padding-top: 1rem;
+}
+
+.Academic-Qualifications {
+    font-weight: 500;
+  text-align: left;
+  border-top: 1px solid #eee;
+  padding-top: 1rem;
+}
