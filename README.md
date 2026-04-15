@@ -2,6 +2,7 @@
 **Module 1 - FSD Core Foundations - Day 1**
 
 ##Live Demo/Screenshots
+<img width="1546" height="880" alt="image" src="https://github.com/user-attachments/assets/d37db14d-3666-4605-8524-01a5a93e1390" />
 
 
 # 📁 Project Structure
@@ -24,3 +25,19 @@ MERN_Day1_Assignment/
 ```
 
 ---
+### Steps
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/jaswantsharma7/MERN_Day1_Assignment.git
+cd MERN_Day1_Assignment
+
+# 2. Install dependencies
+npm install
+
+# 3. Run the React app
+npm run dev
+
+---
+
+*Submitted in fulfillment of Module 1 — Day 1 Assignment, FSD Core Foundations.*
