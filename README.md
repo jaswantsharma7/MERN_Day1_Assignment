@@ -4,6 +4,8 @@
 ##Live Demo/Screenshots
 <img width="1546" height="880" alt="image" src="https://github.com/user-attachments/assets/d37db14d-3666-4605-8524-01a5a93e1390" />
 
+Live: https://mern-day1-assignment-delta.vercel.app/
+
 
 # 📁 Project Structure
 
@@ -40,4 +42,3 @@ npm run dev
 
 ---
 
-*Submitted in fulfillment of Module 1 — Day 1 Assignment, FSD Core Foundations.*
